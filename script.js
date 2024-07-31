@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function () {
     {
       audioSrc: "./tracks/4falling.mp3",
       coverSrc: './images/4.gif',
-      name: 'Falling In Love with u "F"',
+      name: 'S1it',
       desc: "Nothing",
       id: 3,
     },
